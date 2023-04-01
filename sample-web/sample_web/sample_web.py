@@ -29,6 +29,7 @@ def index() -> pc.Component:
             pc.text("I like to publish my code on github, my github account is eli32-vlc", font_size="4em"),
             pc.text("This website is madeout of pynecone framework", font_size="4em"),
             pc.text("cool right!😉", font_size="4em"),
+            pc.text("this is the github version", font_size="4em")
         )
     )   
 
